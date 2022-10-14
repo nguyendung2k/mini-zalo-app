@@ -1,0 +1,20 @@
+[
+    {
+        "code": "GIAM20K",
+        "name": "Ưu đãi 20K! Đặt Coffee Shop trên Zalo.",
+        "expireDate": "10/05/2021",
+        "image": "https://picsum.photos/200/300"
+    },
+    {
+        "code": "GIAM40K",
+        "name": "Ưu đãi 40K! Đặt Coffee Shop trên Zalo.",
+        "expireDate": "10/05/2021",
+        "image": "https://picsum.photos/200/300"
+    },
+    {
+        "code": "GIAM30K",
+        "name": "Ưu đãi 30K! Đặt Coffee Shop trên Zalo.",
+        "expireDate": "10/05/2021",
+        "image": "https://picsum.photos/200/300"
+    }
+]

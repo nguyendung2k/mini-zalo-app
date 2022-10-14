@@ -1,0 +1,29 @@
+.input {
+    margin-top: -10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    // background-color: red;
+    // justify-content: space-between;
+    // align-items: center;
+    // cursor: pointer;
+    display: flex;
+    // position: relative;
+
+    &-icon {
+        position: absolute;
+        // right: -100;
+        right: 0px;
+        top: 0px;
+        margin-top: -13px;
+        margin-right: -75px;
+        width: 49px;
+        height: 49px;
+        background-color: $main-bg;
+        border-radius: 10px;
+        margin-left: 10px;
+        border: solid 2px #ccc;
+        &__icon {
+            margin-left: 10px;
+        }
+    }
+}

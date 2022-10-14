@@ -1,0 +1,286 @@
+[
+    {
+        "id": "1",
+        "category": "Cà Phê",
+        "data": [
+            {
+                "id_product": "1",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Cà phê 1",
+                "image": "https://picsum.photos/200/300",
+                "price": 10000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "2",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Cà phê 2",
+                "image": "https://picsum.photos/200/300",
+                "price": 20000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "3",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Cà phê 3",
+                "image": "https://picsum.photos/200/300",
+                "price": 30000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "4",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Cà phê 4",
+                "image": "https://picsum.photos/200/300",
+                "price": 40000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "5",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Cà phê 5",
+                "image": "https://picsum.photos/200/300",
+                "price": 40000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "category": "Trà",
+        "data": [
+            {
+                "id_product": "1",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Trà 1",
+                "image": "https://picsum.photos/200/300",
+                "price": 10000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "2",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Trà 2",
+                "image": "https://picsum.photos/200/300",
+                "price": 20000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "3",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Trà 3",
+                "image": "https://picsum.photos/200/300",
+                "price": 30000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "4",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Trà 4",
+                "image": "https://picsum.photos/200/300",
+                "price": 40000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "5",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Trà 5",
+                "image": "https://picsum.photos/200/300",
+                "price": 40000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "category": "Bánh ngọt",
+        "data": [
+            {
+                "id_product": "1",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Bánh ngọt 1",
+                "image": "https://picsum.photos/200/300",
+                "price": 10000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "2",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Bánh ngọt 2",
+                "image": "https://picsum.photos/200/300",
+                "price": 20000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "3",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Bánh ngọt 3",
+                "image": "https://picsum.photos/200/300",
+                "price": 30000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "4",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Bánh ngọt 4",
+                "image": "https://picsum.photos/200/300",
+                "price": 40000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "5",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Bánh ngọt 5",
+                "image": "https://picsum.photos/200/300",
+                "price": 40000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "category": "Thức uống khác",
+        "data": [
+            {
+                "id_product": "1",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Thức uống khác 1",
+                "image": "https://picsum.photos/200/300",
+                "price": 10000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "2",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Thức uống khác 2",
+                "image": "https://picsum.photos/200/300",
+                "price": 20000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "3",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Thức uống khác 3",
+                "image": "https://picsum.photos/200/300",
+                "price": 30000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "4",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Thức uống khác 4",
+                "image": "https://picsum.photos/200/300",
+                "price": 40000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            },
+            {
+                "id_product": "5",
+                "createdAt": "2022-10-12T22:45:57.578Z",
+                "name": "Thức uống khác 5",
+                "image": "https://picsum.photos/200/300",
+                "price": 40000,
+                "amount": 20,
+                "size": {
+                    "S": "S",
+                    "L": "L",
+                    "M": "M"
+                }
+            }
+        ]
+    }
+]

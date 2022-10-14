@@ -1,0 +1,38 @@
+.product {
+    margin-top: -35px;
+    padding-bottom: 100px;
+    &-type {
+        margin-left: 25px;
+        margin-top: 45px;
+        font-size: 20px;
+    }
+    &-items {
+        display: flex;
+        flex-direction: row;
+    }
+    &-swiper {
+        width: 135px !important;
+    }
+    &-item {
+        cursor: pointer;
+        height: 170px;
+        display: flex;
+        flex-direction: row;
+        width: 135px;
+        align-items: center;
+    }
+    &-image {
+        margin-top: 20px;
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        align-items: center;
+        margin-left: 1.5px;
+    }
+    &-name {
+        text-align: center;
+    }
+    &-price {
+        text-align: center;
+    }
+}

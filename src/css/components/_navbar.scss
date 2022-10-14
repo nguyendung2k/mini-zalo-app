@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    // justify-content: space-between;
+
+    &-avatar {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    &-title {
+        margin-left: auto;
+    }
+    &-button {
+        margin-left: auto;
+    }
+    &-navbar {
+        &__button {
+            background-color: red;
+        }
+    }
+}
